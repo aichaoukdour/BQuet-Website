@@ -1,15 +1,9 @@
-<img width="907" alt="home" src="https://github.com/user-attachments/assets/a3ce975d-f7dc-4c34-8d6d-cb64e5f02b85" />
-<img width="902" alt="2" src="https://github.com/user-attachments/assets/8e005969-9e62-4a34-91d4-59fa3fdb9c56" />
-<img width="906" alt="3" src="https://github.com/user-attachments/assets/dd446def-c6d7-4f6c-a304-5ee36b9acbe8" />
-<img width="904" alt="4" src="https://github.com/user-attachments/assets/99c71b2c-4ecb-4a65-a3df-ade1acf069c2" />
-![Uploading home.png…]()
-<img width="906" alt="3" src="https://github.com/user-attachments/assets/d532ed63-e39f-419a-aacf-556e91f3903c" />
-<img width="901" alt="5" src="https://github.com/user-attachments/assets/7b299c58-2f56-4180-8a28-26108efed16d" />
-![Uploading 5.png…]()
-![Uploading 3.png…]()
-![Uploading 5.png…]()
-![Uploading home.png…]()
-<img width="904" alt="4" src="https://github.com/user-attachments/assets/4c861931-2226-45ed-a44d-4a5a8e80fdd9" />
-<img width="904" alt="4" src="https://github.com/user-attachments/assets/f520a65b-4694-4fcf-91e4-e02e24d8aba2" />
-<img width="901" alt="5" src="https://github.com/user-attachments/assets/47ad74c3-df10-4aea-9b24-98cc7b116068" />
-<img width="902" alt="2" src="https://github.com/user-attachments/assets/315c815a-3474-4f4d-8741-0e2fbfc6971e" />
+
+<img width="906" alt="image" src="https://github.com/user-attachments/assets/72c4b1e0-cbc5-48c3-a1d3-0a26682645e9" />
+<img width="901" alt="image" src="https://github.com/user-attachments/assets/6b67c65b-11c1-44ec-8c10-869d38476be8" />
+<img width="907" alt="image" src="https://github.com/user-attachments/assets/d512b3f9-023f-40bc-9200-23678130fa7a" />
+<img width="964" alt="image" src="https://github.com/user-attachments/assets/701491db-adb9-42bd-88ab-2e889ff798b4" />
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/a53af6d5-6b3c-4359-8c7d-84f610c8192e" />
+
+
+
